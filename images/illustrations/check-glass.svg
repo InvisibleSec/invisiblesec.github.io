@@ -1,0 +1,29 @@
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="-1.10259" x2="1.85941" y1="1.5529" x1="-0.41766" id="a">
+   <stop stop-color="#fff"/>
+   <stop stop-color="#EEE" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="-1.20965" x2="-0.82519" y1="1.62608" x1="1.39618" id="b">
+   <stop stop-color="#fff"/>
+   <stop stop-color="#EEE" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_2" stroke-linejoin="round" stroke-linecap="round" stroke-width="24" stroke="#E1E4E5" d="m552.177,151.633l138.753,0m-174.363,-58.253l72.447,0m61.395,116.506l72.447,0"/>
+  <path id="svg_3" stroke-linejoin="round" stroke-linecap="round" stroke-width="24" stroke="#19376D" d="m655.918,289.425c0,108.341 -87.705,196.046 -196.046,196.046s-196.046,-87.705 -196.046,-196.046s87.705,-196.046 196.046,-196.046"/>
+  <path id="svg_4" fill="#19376D" d="m578.485,330.904l0,-96.547c0.004,-16.616 -10.44,-31.45 -26.109,-37.082l-60.238,-21.635a95.006,95.006 0 0 0 -64.227,0l-60.316,21.674c-15.656,5.628 -26.097,20.441 -26.11,37.043l0,96.547c0,50.166 70.35,87.288 102.7,101.75a38.476,38.476 0 0 0 31.6,0c32.351,-14.462 102.7,-51.663 102.7,-101.75z" clip-rule="evenodd" fill-rule="evenodd"/>
+  <path id="svg_5" stroke-linejoin="round" stroke-linecap="round" stroke-width="24" stroke="#fff" d="m503.421,276.906l-49.711,48.171l-29.827,-28.902"/>
+  <path id="svg_6" stroke-linejoin="round" stroke-linecap="round" stroke-width="24" stroke="#19376D" d="m671.482,505.276l-66.448,-66.449"/>
+  <path id="svg_7" fill="url(#a)" d="m721.553,345.446c-14.632,7.258 -34.051,-2.075 -34.051,-2.075s4.316,-21.095 18.955,-28.343c14.631,-7.258 34.043,2.064 34.043,2.064s-4.316,21.096 -18.947,28.354z"/>
+  <path id="svg_8" fill="url(#b)" d="m187.992,383.408c20.719,12.418 50.445,0.938 50.445,0.938s-3.886,-31.609 -24.619,-44.013c-20.719,-12.418 -50.433,-0.952 -50.433,-0.952s3.887,31.609 24.607,44.027z"/>
+  <circle id="svg_9" fill="#E1E4E5" transform="matrix(-1 0 0 1 589.452 495.012)" r="9.963"/>
+  <circle id="svg_10" fill="#E1E4E5" transform="matrix(-1 0 0 1 252.263 457.571)" r="14.392"/>
+  <circle id="svg_11" fill="#E1E4E5" transform="matrix(-1 0 0 1 665.914 409.152)" r="10.953"/>
+  <circle id="svg_12" fill="#E1E4E5" transform="matrix(-1 0 0 1 726.431 266.235)" r="12.178"/>
+  <circle id="svg_13" fill="#E1E4E5" transform="rotate(-75 214.462 258.25) scale(1 -1)" r="10.935"/>
+  <circle id="svg_14" fill="#E1E4E5" transform="matrix(-1 0 0 1 259.037 147.599)" r="4.551"/>
+  <ellipse id="svg_15" fill="#E1E4E5" transform="matrix(-1 0 0 1 341.677 514)" ry="8.952" rx="11.19"/>
+ </g>
+</svg>

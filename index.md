@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Invisible Sec
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+description: Cyber Security Expert
+intro_image: "images/illustrations/shield-lock.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Building a secure digital business, together.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Stay ahead of digital threats! Partner with us and benefit from our science-driven solutions.

@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": " Advancing Cybersecurity",
+    "description": "We have 30+ scientific publications in security and distributed systems published in international conferences.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/illustrations/idea.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Industry Professionals",
+    "description": "Together, our team has more than 20 years of experience in delivering industry projects.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/illustrations/world.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Expert Network",
+    "description": "We collaborate with leading industry and research organizations to find the best solution.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/illustrations/collab.svg",
       "width": 80,
       "height": 80
     }

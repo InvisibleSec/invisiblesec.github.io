@@ -88,7 +88,7 @@ For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would
 I've been building open source themes for all the main static site generators for over 4 years now. My premium themes allow me to continue to allocate time to maintain, improve and build new open source themes.
 
 1. Leave a star ⭐🙏🏻
-2. Make a contribution to this theme, add a feature, fix a bug, nothing is to small 
+2. Make a contribution to this theme, add a feature, fix a bug, nothing is to small
 2. Mention this theme on twitter [@zerostaticio](https://twitter.com/zerostaticio) 📢
 3. Purchase a premium theme 🔥
 
@@ -101,3 +101,9 @@ I've been building open source themes for all the main static site generators fo
 - [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
 
 🇦🇺 **Made in Australia** by Robert Austin
+
+
+# Customization
+
+- [Color Pallet](https://colorhunt.co/palette/0b244719376d576cbca5d7e8)
+- [Illustrations](https://themeisle.com/illustrations/?utm_source=themeisle&utm_medium=themeisle_blog&utm_campaign=free-illustrations)
