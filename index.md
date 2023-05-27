@@ -10,4 +10,4 @@ show_call_box: true
 
 # Building a secure digital business, together.
 
-Stay ahead of digital threats! Partner with us and benefit from our science-driven solutions.
+Stay ahead of digital threats! Partner with us and leverage our science-driven solutions.
